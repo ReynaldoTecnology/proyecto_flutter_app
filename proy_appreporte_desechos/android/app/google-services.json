@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "837349021529",
+    "project_id": "proyectoappresiduos",
+    "storage_bucket": "proyectoappresiduos.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:837349021529:android:ed151aff6ef8568d68de48",
+        "android_client_info": {
+          "package_name": "com.example.proy_appreporte_desechos"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkfojjAAo_5pSxtBWh9W2ovnMIoWJ4oAI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
